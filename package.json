@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.1",
+  "description": "Project description",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "dev": "node src/index.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
